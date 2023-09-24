@@ -15,9 +15,9 @@ In an era where online reviews shape consumer choices, understanding customer se
 
 ## Features
 
-Multinomial Naive Bayes: Our primary modeling technique, known for its excellence in text classification tasks. 
-Hyperparameter Tuning: We fine-tuned our model's alpha parameter to achieve higher accuracy and precision. 
-Text Vectorization (CountVectorizer): This process converts text data into numerical features, capturing word frequencies to represent the reviews. 
+* Multinomial Naive Bayes: Our primary modeling technique, known for its excellence in text classification tasks. 
+* Hyperparameter Tuning: We fine-tuned our model's alpha parameter to achieve higher accuracy and precision. 
+* Text Vectorization (CountVectorizer): This process converts text data into numerical features, capturing word frequencies to represent the reviews. 
 
 
 
